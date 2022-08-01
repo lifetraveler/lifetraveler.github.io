@@ -156,7 +156,7 @@ defaults:
   home:
     heading: "0与1的随机组合世界"
     subheading: "0和1是另外一个世界,如何让我们与它连接,碳基生命与硅基生命的碰撞"
-    # banner: "Your image url"
+    banner: "https://api.dujin.org/bing/1366.php"
 
 # Banner default settings
 # These banner settings are for global banner default, but you can also
